@@ -1,0 +1,14 @@
+C:\C# SCHOOL Rotterdam\bin\Debug\net8.0\C# SCHOOL Rotterdam.exe
+C:\C# SCHOOL Rotterdam\bin\Debug\net8.0\C# SCHOOL Rotterdam.deps.json
+C:\C# SCHOOL Rotterdam\bin\Debug\net8.0\C# SCHOOL Rotterdam.runtimeconfig.json
+C:\C# SCHOOL Rotterdam\bin\Debug\net8.0\C# SCHOOL Rotterdam.dll
+C:\C# SCHOOL Rotterdam\bin\Debug\net8.0\C# SCHOOL Rotterdam.pdb
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.AssemblyInfoInputs.cache
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.AssemblyInfo.cs
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.csproj.CoreCompileInputs.cache
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.dll
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\refint\C# SCHOOL Rotterdam.dll
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.pdb
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.genruntimeconfig.cache
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\ref\C# SCHOOL Rotterdam.dll
