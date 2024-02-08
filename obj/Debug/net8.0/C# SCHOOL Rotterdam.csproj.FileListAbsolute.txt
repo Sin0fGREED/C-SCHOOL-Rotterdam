@@ -12,3 +12,4 @@ C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\refint\C# SCHOOL Rotterdam.dll
 C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.pdb
 C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.genruntimeconfig.cache
 C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\ref\C# SCHOOL Rotterdam.dll
+C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.sourcelink.json
