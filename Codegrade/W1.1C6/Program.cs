@@ -1,23 +1,32 @@
-Console.WriteLine("Give some text");
-string text = Console.ReadLine();
+using System;
 
-Console.WriteLine("What do you want to do with this text?");
-Console.WriteLine("U: make all uppercase");
-Console.WriteLine("L: make all lowercase");
-Console.WriteLine("Any other key: do not change");
-string choice = Console.ReadLine();
 
-if (choice == "U")
-{
-    string newText = text.ToUpper();
-}
-else if (choice == "L")
-{
-    string newText = text.ToLower();
-}
-else
-{
-    string newText = text;
-}
+class Scope_cope_Case{
+    static void Main(){
 
-Console.WriteLine(newText);
+        Console.WriteLine("Give some text");
+        string text = Console.ReadLine();
+
+        Console.WriteLine("What do you want to do with this text?");
+        Console.WriteLine("U: make all uppercase");
+        Console.WriteLine("L: make all lowercase");
+        Console.WriteLine("Any other key: do not change");
+        string choice = Console.ReadLine();
+        string newText = "";
+
+        if (choice.ToUpper() == "U")
+        {
+            newText = text.ToUpper();
+        }
+        else if (choice.ToUpper() == "L")
+        {
+            newText = text.ToLower();
+        }
+        else
+        {
+            newText = text;
+        }
+
+        Console.WriteLine(newText);
+    }
+}
