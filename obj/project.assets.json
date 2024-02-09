@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GREED\\.nuget\\packages\\": {}
+    "C:\\Users\\prati\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C# SCHOOL Rotterdam\\C# SCHOOL Rotterdam.csproj",
+      "projectUniqueName": "C:\\Users\\prati\\Documents\\GitHub\\C-SCHOOL-Rotterdam\\C# SCHOOL Rotterdam.csproj",
       "projectName": "C# SCHOOL Rotterdam",
-      "projectPath": "C:\\C# SCHOOL Rotterdam\\C# SCHOOL Rotterdam.csproj",
-      "packagesPath": "C:\\Users\\GREED\\.nuget\\packages\\",
-      "outputPath": "C:\\C# SCHOOL Rotterdam\\obj\\",
+      "projectPath": "C:\\Users\\prati\\Documents\\GitHub\\C-SCHOOL-Rotterdam\\C# SCHOOL Rotterdam.csproj",
+      "packagesPath": "C:\\Users\\prati\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\prati\\Documents\\GitHub\\C-SCHOOL-Rotterdam\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\GREED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\prati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

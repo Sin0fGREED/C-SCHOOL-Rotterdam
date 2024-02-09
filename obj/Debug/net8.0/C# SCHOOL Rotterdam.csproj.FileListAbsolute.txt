@@ -13,3 +13,11 @@ C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.pdb
 C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.genruntimeconfig.cache
 C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\ref\C# SCHOOL Rotterdam.dll
 C:\C# SCHOOL Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.sourcelink.json
+C:\Users\prati\Documents\GitHub\C-SCHOOL-Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\Documents\GitHub\C-SCHOOL-Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.AssemblyInfoInputs.cache
+C:\Users\prati\Documents\GitHub\C-SCHOOL-Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.AssemblyInfo.cs
+C:\Users\prati\Documents\GitHub\C-SCHOOL-Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.csproj.CoreCompileInputs.cache
+C:\Users\prati\Documents\GitHub\C-SCHOOL-Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.sourcelink.json
+C:\Users\prati\Documents\GitHub\C-SCHOOL-Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.dll
+C:\Users\prati\Documents\GitHub\C-SCHOOL-Rotterdam\obj\Debug\net8.0\refint\C# SCHOOL Rotterdam.dll
+C:\Users\prati\Documents\GitHub\C-SCHOOL-Rotterdam\obj\Debug\net8.0\C# SCHOOL Rotterdam.pdb
