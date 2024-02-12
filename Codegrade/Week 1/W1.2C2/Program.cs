@@ -1,18 +1,38 @@
 using System;
+using System.Collections.Generic;
 
 class Program
 {
-    static void Main()
+    public static void Main()
     {
-        string userInput;
+        var fileList = new List<string>()
+        {
+            "OODP assignment.docx",
+            "Project Presentation.pptx",
+            "TODO list.xlsx",
+        };
+
+        string whichFileToDelete = fileList[0];
+
+        Console.WriteLine("File selected to delete: " + whichFileToDelete);
+
+        string confirm;
 
         do
         {
             Console.WriteLine("Really delete this file? (y/n)");
-            userInput = Console.ReadLine()?.Trim().ToLower();
+            confirm = Console.ReadLine()?.Trim().ToLower();
 
-        } while (userInput != "y" && userInput != "n");
+        } while (confirm != "y" && confirm != "n");
 
-        Console.WriteLine(userInput == "y" ? "File deleted" : "Deletion canceled");
+        if (confirm == "y")
+        {
+            fileList.Remove(whichFileToDelete);
+            Console.WriteLine("File deleted");
+        }
+        else
+        {
+            Console.WriteLine("Deletion canceled");
+        }
     }
 }
