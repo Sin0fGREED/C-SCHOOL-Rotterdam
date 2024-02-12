@@ -1,7 +1,7 @@
 using System;
 
 
-class While_the_getting_bad{
+class birthday{
     
     static void Main()
     {

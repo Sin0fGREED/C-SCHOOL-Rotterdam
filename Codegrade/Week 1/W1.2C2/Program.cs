@@ -1,30 +1,39 @@
 using System;
 using System.Collections.Generic;
 
-class While_fair
+class While_the_getting_bad
 {
-    static void Main()
+    public static void Main()
     {
-        var fileList = new List<string> { "OODP assignment.docx", "Project Presentation.pptx", "TODO list.xlsx" };
+        var fileList = new List<string>()
+        {
+            "OODP assignment.docx",
+            "Project Presentation.pptx",
+            "TODO list.xlsx",
+        };
+
         string whichFileToDelete = fileList[0];
 
         Console.WriteLine("File selected to delete: " + whichFileToDelete);
-
-        string confirm;
+        string confirm = "n";
         do
         {
             Console.WriteLine("Really delete this file? (y/n)");
-            confirm = Console.ReadLine()?.Trim().ToLower();
-        } while (confirm != "y" && confirm != "n");
+            string answer = Console.ReadLine();
+            if (answer == "y")
+            {
+                confirm = "y";
+            }
+            else if (answer == "n")
+            {
+                break;
+            }
+        } while (confirm != "y");
 
         if (confirm == "y")
         {
             fileList.Remove(whichFileToDelete);
             Console.WriteLine("File deleted");
-        }
-        else
-        {
-            Console.WriteLine("Deletion canceled");
         }
     }
 }
