@@ -5,11 +5,11 @@ class RandomNumbersPsuedo{
 
     static void Main(){
 
-        Random rnd = new Random();
+        Random rnd = new Random(1);
 
         for (int i = 0; i < 10; i++){
             int number = rnd.Next(1, 7);
-            Console.WriteLine($"number\n");
+            Console.WriteLine($"{number}'\n'");
 
         }
 
